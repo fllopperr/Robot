@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### You can see the project here
+
+https://fllopperr.github.io/Robot/
